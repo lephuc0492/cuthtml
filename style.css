@@ -1,0 +1,120 @@
+*
+{
+	/*border: solid;*/
+	box-sizing: border-box;
+}
+.header-Text
+{
+	font-size: 52pt;
+	position: absolute;
+	font-family: exo thin;
+}
+#div-Header
+{
+	position: relative;
+}
+.one-P
+{
+top: 125px;
+left: 390px;
+}
+.two-P
+{
+top: 200.55px;
+left: 280.55px;	
+}
+.button-Play
+{
+	position: absolute;
+	top: 40%;
+	width: 70px;
+	left: 50%;
+
+}
+.try-Now
+{
+	width: 165px;
+	height: 43.5px;
+	background: #ff6d6d;
+	text-align: center;
+		border-radius: 10px;
+		position: absolute;
+	left: 46%;
+	top: 52%;		
+
+}
+.trynow
+{
+padding-top: 5px;
+	font-size: 14pt;
+	font-family: Exo regular;
+	color: white;
+}
+.three-P
+{
+	font-family: Exo Regular;
+	font-size: 12pt;
+	top: 60%;
+	left: 43.7%;	
+	color: #8c8c8f;
+}
+.grid
+{
+	display: grid;
+	grid-template-columns: 60% 40%;
+
+}
+.section2-1
+{
+	height: 630px;
+	width: 100%;
+		font-family: exo medium;
+		position: relative;
+}
+.section2-2
+{
+
+	width: 100%;
+}
+.new-design
+{
+	color: #fb8686;
+	font-size: 12pt;
+}
+.platforms
+{
+	font-size: 30pt;
+}
+.content-section
+{
+	font-size: 12pt;
+	color: #cecece;	
+}
+.penholder
+{
+	width: 30%;
+}
+.p-section2-2
+{
+	position: absolute;
+	top: 20%;
+	left: 10%;
+}
+.p-section2-3
+{
+		position: absolute;
+	top: 30%;
+		left: 10%;
+}
+.p-section2-4
+{
+		position: absolute;
+	top: 40%;
+		left: 10%;
+}
+.p-section2-5
+{
+		position: absolute;
+	top: 60%;
+		left: 10%;
+}
